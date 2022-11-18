@@ -22,5 +22,6 @@ phases:
       - echo Entering Post_Build Phase
 artifacts:
    files:
+   - appsec.yml
     - '**/*'
 
